@@ -1,6 +1,6 @@
 # SpamMailGUI
 
-Open terminal, and type the following command:
+Open terminal, search SpamMailGUI local directory, and type the following command:
 ```
 python3 main.py
 ```
